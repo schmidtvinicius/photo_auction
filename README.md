@@ -9,6 +9,9 @@
 ## Things I learned:
 - Svelte is a very flexible and user friendly framework. It is much simpler than React, for example, and the code for each component is very human-readable, because of its neat structure.
 - REST APIs are very powerful because they make it possible to communicate with various clients using the same data format.
+- How to make pagination elements with both "raw" JavaScript and Svelte.
+- How to manage user sessions and permissions.
+- How to store passwords and authenticate users.
 
 ## Screenshots:
 
