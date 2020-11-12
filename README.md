@@ -2,10 +2,12 @@
 This was a school project I made for my 'Webtechnologie' class.
 
 ## Objectives:
-- Create a single page application for a photography auctions website that was served by a REST API
+- Create a single page application for a photography* auctions website that was served by a REST API
 - The front-end was made using Svelte
 - The back-end (REST API) was made using Node.js and express
 - The integration between front-end and back-end was made using sapper
+
+* **The objective of this project was to get familiar with Svelte and JavaScript. For that reason I decided to not add any actual images to simulate the photographs, but I instead focused on getting all other functionality working as best as possible. **
 
 ## Things I learned:
 - Svelte is a very flexible and user friendly framework. It is much simpler than React, for example, and the code for each component is very human-readable, because of its neat structure.
