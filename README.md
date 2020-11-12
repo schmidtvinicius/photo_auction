@@ -20,9 +20,6 @@ This was a school project I made for my 'Webtechnologie' class.
 ### Administration page:
 ![alt admin](https://github.com/schmidtvinicius/photo_auction/blob/main/screenshots/admin.png)
 
-### Auction details page:
-![alt auction_detail](https://github.com/schmidtvinicius/photo_auction/blob/main/screenshots/auction_detail.png)
-
 ### Home page:
 ![alt home_page](https://github.com/schmidtvinicius/photo_auction/blob/main/screenshots/index.png)
 
