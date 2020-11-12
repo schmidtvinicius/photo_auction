@@ -138,7 +138,7 @@
     </div>
     <div class="row">
         <form class="auction_form" method="" action="">
-            <h1 class="auction_title">Edit auction</h1>
+            <h1 class="auction_title">Add an auction</h1>
             <label>Product name</label>
             <input class={!productName ? 'bad' : ''} type="text" placeholder="Product name" name="product-name" id="product-name" bind:value={productName}/>
             <label>End date</label>
