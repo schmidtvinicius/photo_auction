@@ -1,4 +1,5 @@
-# Photo auctions
+# Photo auctions:
+This was a school project I made for my 'Webtechnologie' class.
 
 ## Objectives:
 - Create a single page application for a photography auctions website that was served by a REST API
